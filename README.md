@@ -23,7 +23,7 @@ This JSON file is structured to
 
 ## Microsoft Edge Intune App Configuration Policy Settings
 
-![Microsoft Edge Intune Settings]()
+![Microsoft Edge Intune Settings](https://ldgithubimages.blob.core.windows.net/githubandroidreadmeimages/Microsoft%20Edge/Android%20Microsoft%20Edge.png)
 
 * In addition. This policy "Auto Grants" Location permissions for Microsoft Edge
 
