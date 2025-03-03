@@ -48,7 +48,7 @@
        },
        {
           "key":"ManagedFavorites",
-          "valueString":"[{\"toplevel_name\":\"ABH Bookmarks\"},{\"name\":\"Realtor Websites\",\"children\":[{\"url\":\"www.zillow.com\",\"name\":\"Zillow\"},{\"url\":\"www.redfin.com\",\"name\":\"Redfin\"}]},{\"name\":\"Microsoft\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"}]}]"
+          "valueString":"[{\"toplevel_name\":\"ABH Favorites\"},{\"name\":\"Realtor Websites\",\"children\":[{\"url\":\"www.zillow.com\",\"name\":\"Zillow\"},{\"url\":\"www.redfin.com\",\"name\":\"Redfin\"}]},{\"name\":\"Microsoft\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"}]}]"
        },
        {
           "key":"SmartScreenEnabled",

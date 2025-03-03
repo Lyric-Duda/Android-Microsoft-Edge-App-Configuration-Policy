@@ -13,7 +13,7 @@
 This JSON file is structured to
 
 * Enable Browser Sign In Settings
-* Add Company Bookmarks to Microsoft Edge
+* Add Company Favorites to Microsoft Edge
 * Disable Incognito Mode
 * Set the homepage to Zillow.com
 * Set the default search engine to google
